@@ -15,4 +15,34 @@ Truly a first of it's kind, TerBuntu-Frankenstein-DE, is a fusion of a Termux de
 
 # Simply clone this repo and run:
 
-$ cd Frankenstein-TerBuntu-DE && chmod +x install.sh && ./install.sh
+~$ cd Frankenstein-TerBuntu-DE && chmod +x install.sh && ./install.sh
+
+# Once the installation completes, you need to restart your Termux. To do this correctly run:
+
+~# exit
+
+~$ exit
+
+Then hit 'exit' to close Termux
+
+# Now open termux and set your vncserver password. Simply run:
+
+~$ vncserver 
+
+# Once your vncserver password is set you can start your RealVNC application and create an instance with the following credentials
+
+# Address: 
+
+localhost:1
+
+# Name:
+
+Whatever you wabt to call it.
+
+# Use the vncserver password you set earlier, then hit 'connect'.
+
+# Once connected your desktop you can access your Ubuntu 20.04 server directly from your desktop. To do so, simply start a terminal and run:
+
+~$ bash start
+
+# You will now have full root access to your Ubuntu 20.04 server running on your native Termux DE.
