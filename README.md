@@ -15,4 +15,4 @@ Truly a first of it's kind, TerBuntu-Frankenstein-DE, is a fusion of a Termux de
 
 # Simply clone this repo and run:
 
-$./install
+$ cd Frankenstein-TerBuntu-DE && chmod +x install.sh && ./install.sh
