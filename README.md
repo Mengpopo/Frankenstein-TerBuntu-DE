@@ -33,11 +33,11 @@ localhost:1
 
 # Name:
 
-Whatever you wabt to call it.
+Whatever you want to call it.
 
-# Use the vncserver password you set earlier, then hit 'connect'.
+# Next, use the vncserver password you set earlier, then hit 'connect'.
 
-# Once connected your desktop you can access your Ubuntu 20.04 server directly from your desktop. To do so, simply start a terminal and run:
+# Once connected to your desktop you can access your Ubuntu 20.04 server directly from your desktop. To do so, simply start a terminal and run:
 
 ~$ bash start
 
