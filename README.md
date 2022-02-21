@@ -7,7 +7,7 @@ Truly a first of it's kind, TerBuntu-Frankenstein-DE, is a fusion of a Termux de
 
 # First run:
 
-~$ apt update && apt list upgradable && apt install git
+~$ apt update && apt list --upgradable && apt install git
  
 # Next, clone this repo and run:
 
