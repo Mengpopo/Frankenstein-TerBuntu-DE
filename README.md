@@ -10,3 +10,5 @@ Truly a first of it's kind, TerBuntu-Frankenstein-DE, is a fusion of a Termux de
 ![Screenshot_20220220-004345](https://user-images.githubusercontent.com/100149390/155029975-537878b7-49fc-4b5e-870a-139821194db9.png)
 
 ![Screenshot_20220220-004358](https://user-images.githubusercontent.com/100149390/155030021-d30507f1-a39b-4522-a22c-9ecf95195426.png)
+
+![Screenshot_20220220-004427](https://user-images.githubusercontent.com/100149390/155030272-0eb9f130-e8b2-4567-a6b3-761485f0c823.png)
